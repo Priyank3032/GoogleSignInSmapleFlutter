@@ -7,4 +7,4 @@ You have to add your project google-json file from firebase.
 
 
 
-<img src = "https://github.com/Priyank3032/GoogleSignInSmapleFlutter/blob/main/images/signin.jpg" width ="200" >  <img src = "https://github.com/Priyank3032/GoogleSignInSmapleFlutter/blob/main/images/singout.jpg" >
+<img src = "https://github.com/Priyank3032/GoogleSignInSmapleFlutter/blob/main/images/signin.jpg" width ="200" >  <img src = "https://github.com/Priyank3032/GoogleSignInSmapleFlutter/blob/main/images/singout.jpg"  width ="200" >
